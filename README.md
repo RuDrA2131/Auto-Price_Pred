@@ -7,6 +7,7 @@ Auto Price Prediction using Machine Learning with EDA and Regression models. An 
 
 End-to-End Machine Learning Project | Regression | Predictive Analytics
 
+
 📌 Project Overview
 
 This project focuses on predicting automobile prices using various vehicle attributes such as engine size, horsepower, fuel type, body style, and more.
@@ -14,6 +15,7 @@ This project focuses on predicting automobile prices using various vehicle attri
 The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, regression modeling, and performance evaluation.
 
 The goal is to build an accurate regression model that estimates car prices based on given features.
+
 
 🎯 Objectives
 
@@ -28,6 +30,7 @@ Encode categorical variables
 Train multiple regression models
 
 Compare models and select the best-performing one
+
 
 📂 Dataset Information
 
@@ -63,6 +66,7 @@ City MPG / Highway MPG
 
 Price (Target Variable)
 
+
 🔎 Exploratory Data Analysis (EDA)
 
 Analysis performed:
@@ -79,6 +83,7 @@ Fuel type comparison
 
 Outlier detection using IQR method
 
+
 📊 Key Insights:
 
 Engine size and horsepower strongly influence price.
@@ -89,6 +94,7 @@ Some features show multicollinearity.
 
 Outlier handling improved model accuracy.
 
+
 ⚙️ Data Preprocessing
 
 Missing value treatment
@@ -98,6 +104,7 @@ Label Encoding / One-Hot Encoding
 Feature Scaling (StandardScaler / MinMaxScaler)
 
 Train-Test Split
+
 
 🤖 Machine Learning Models Implemented
 
@@ -113,6 +120,7 @@ Random Forest Regressor
 
 XGBoost Regressor
 
+
 📈 Model Evaluation Metrics
 
 R² Score
@@ -127,6 +135,7 @@ Cross Validation
 
 Hyperparameter Tuning (GridSearchCV)
 
+
 🏆 Best Model
 
 After comparing regression models:
@@ -140,6 +149,7 @@ Capturing non-linear relationships
 Handling feature interactions
 
 Robustness to outliers
+
 
 🛠️ Tech Stack
 
